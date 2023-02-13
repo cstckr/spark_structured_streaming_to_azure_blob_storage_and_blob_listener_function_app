@@ -1,0 +1,4 @@
+databricks-connect==7.3.55
+pillow==9.3.0
+numpy==1.23.5
+pyodbc==4.0.32
